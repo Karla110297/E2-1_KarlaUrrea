@@ -1,0 +1,7 @@
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\bin\Debug\E2-1_KarlaUrrea.exe.config
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\bin\Debug\E2-1_KarlaUrrea.exe
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\bin\Debug\E2-1_KarlaUrrea.pdb
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\obj\Debug\E2-1_KarlaUrrea.csprojResolveAssemblyReference.cache
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\obj\Debug\E2-1_KarlaUrrea.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\obj\Debug\E2-1_KarlaUrrea.exe
+C:\Users\karla\source\repos\E2-1_KarlaUrrea\E2-1_KarlaUrrea\obj\Debug\E2-1_KarlaUrrea.pdb
